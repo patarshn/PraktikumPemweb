@@ -1,2 +1,7 @@
 # PraktikumPemweb
-Project akhir praktikum pemrograman web (Cahyani 1717051033, Naomy 1717051045, Patar 1717051051)
+\===========PROJEK PRAKTIKUM PEMROGRAMAN WEB===========/
+\\                 SISTEM KEPEGAWAIAN                 //
+\\\   Naomy Tiara Dewi  - 1717051045 - Analis Sistem ///
+///   Cahyani Ramadhani - 1717051003 - Desainer      \\\
+//    Patar MD Siahaan  - 1717051051 - Programmer     \\
+/=====================TEAM WORK========================\
